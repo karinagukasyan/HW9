@@ -6,5 +6,8 @@
 ![](https://github.com/karinagukasyan/HW9/blob/master/1.png)
 
 ## Шаг 2
+Использовала регулярное выражение: [А-Я][а-я]*слав[а-я]*
+Всего упоминаний о князьях и городах нашла: 592
 
+![](https://github.com/karinagukasyan/HW9/blob/master/2.png)
 ## Шаг 3
