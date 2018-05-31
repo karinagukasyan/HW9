@@ -12,3 +12,9 @@
 
 ![](https://github.com/karinagukasyan/HW9/blob/master/2.png)
 ## Шаг 3
+Использовала регулярное выражение: Нов[а-я,ѣ]город[а-я,ѣ]
+
+Всего упоминаний Новгорода нашел: 58
+
+
+![](https://github.com/karinagukasyan/HW9/blob/master/3.png)
